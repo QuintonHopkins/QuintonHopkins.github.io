@@ -7,7 +7,7 @@ This is my 360 image
 
 ###Camera Effects
 
-![filter](ps4.png.jpg?raw=true "Optional Title")
+![filter](ps4.png?raw=true "Optional Title")
 
 
 
